@@ -1,0 +1,3 @@
+C:/Users/Ali/Documents/clion/Laborator9-10/cmake-build-debug/CMakeFiles/Laborator9_10.dir
+C:/Users/Ali/Documents/clion/Laborator9-10/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ali/Documents/clion/Laborator9-10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
